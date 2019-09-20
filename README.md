@@ -21,5 +21,5 @@ writing... (or will documenting with swagger-ui)
 - [https://kopol2.tojung.me](https://kopol2.tojung.me)
 - [https://kopol2.tojung.me/bills](https://kopol2.tojung.me/bills)
 - https://kopol2.tojung.me/bills/:billId
-	- ex) [https://kopol2.tojung.me/bill2/2020927](https://kopol2.tojung.me/bill2/2020927)
+	- ex) [https://kopol2.tojung.me/bills/2020927](https://kopol2.tojung.me/bills/2020927)
 
